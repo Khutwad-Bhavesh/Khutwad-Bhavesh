@@ -6,7 +6,7 @@ A collection of projects I've built while learning and experimenting with differ
 
 | Project | Tech | Description | Repo |
 |---------|------|-------------|------|
-|  Sorting Visualizer | Java, Swing | Animated sorting algorithm visualizer with neon UI, 6 algorithms, live stats | [View]([https://github.com/Khutwad-Bhavesh/SortingVisualiser.git]) |
+|  Sorting Visualizer | Java, Swing | Animated sorting algorithm visualizer with neon UI, 6 algorithms, live stats | [View](https://github.com/Khutwad-Bhavesh/SortingVisualiser.git) |
 |  Crown Clash | Java | A turn-based strategy game | [View](link) |
 |  File Converter | Python | Convert files between different formats | [View](link) |
 |  App UI | UI Design | Mobile app interface design | [View](link) |
