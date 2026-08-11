@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a team player & Jack of all trades
+Intellectual Omnivore , Aspiring Polymath, Jack Of All Trades
 
 
 ## 🌐 Socials:
